@@ -1,0 +1,24 @@
+{
+  "name": "Get People",
+  "version": "1",
+  "description": "Este é um app que te mostra uma porcentagem de chance que você tem de conseguir um(a) mulher e/ou homem, em qualquer evento",
+  "launch_path": "/index.html",
+  "permissions":
+  {
+    "storage":
+    {
+      "description": "App do auxilio"
+    }
+  },
+  "developer":
+  {
+    "name": "Carlos Ferreira",
+    "url": "http://www.conexaototal.com.br"
+  },
+  "icons":
+  {
+    "48": "/img/logo-48.png",
+    "60": "/img/logo-60.png",
+    "128": "/img/logo-128.png"
+  }
+}
